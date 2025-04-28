@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/yffi4/budget-buddy.git
 cd budget-buddy
+cd backend
 ```
 
 ### 2. Создать виртуальное окружение
